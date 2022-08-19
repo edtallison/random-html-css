@@ -1,0 +1,21 @@
+*{
+    Margin:0;
+    Padding:0;
+    Border:0;
+}
+
+.centre {
+    margin: auto;
+    width: 50%;
+
+    border-radius: 2px;
+    border-color: black;
+}
+
+div {
+    color: blue;
+}
+
+.main {
+    background-color: beige;
+}
