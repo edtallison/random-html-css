@@ -18,4 +18,10 @@ div {
 
 .main {
     background-color: beige;
+    height: max-content;
+}
+
+.title-bar {
+    background-color: azure;
+    align-items: flex-start;
 }
